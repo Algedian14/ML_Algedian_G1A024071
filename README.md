@@ -1,3 +1,4 @@
+Nama : Algedian Syahtria Wangsa NPM : G1A024071 Program Studi : Teknik Informatika Instansi : Universitas Bengkulu
 # 6 Studi Kasus dan Implementasi — Informatics Practitioner Lecture Series
 
 Folder ini memisahkan notebook sumber menjadi **6 file Python**, satu file untuk setiap pertemuan. Isi kode studi kasus dipertahankan dari file notebook yang diberikan.
